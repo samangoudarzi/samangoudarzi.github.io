@@ -1,0 +1,28 @@
+html {
+	margin: 0;
+	background-color: #FEFEFE;
+
+h2 {margin: 0px;
+    font-size: 14px;
+    text-align: left;
+    font-family: 'DIN Offc Pro Medium', Arial, Regular;
+    color: #ffffff
+}
+h3 {margin: 0px;
+    font-size: 12px;
+    text-align: left;
+    font-family: 'DIN Offc Pro Medium', Arial, Regular;
+    color: #F9F9DD;
+}
+div{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    background: #C6C6C6;
+    font-family: 'DIN Offc Pro Medium', Arial, Regular
+    overflow: auto;
+    border-radius: 3px;
+}
