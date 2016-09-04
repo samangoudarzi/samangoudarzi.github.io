@@ -5,12 +5,15 @@ html {
 
 .overlay {
     margin: auto;
+    margin-left: auto;
+    margin-right: auto;
     background: #C6C6C6;
     font-family: 'DIN Offc Pro Medium', Arial, Regular;
     overflow: auto;
     border-radius: 3px;
-     padding: 10px;
+    padding: 10px;
 }
+
 #box {
     top: 0;
     height: 135px;
