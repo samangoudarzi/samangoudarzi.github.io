@@ -32,6 +32,10 @@ h3 {margin: 0px;
     color: #2B4162;
 }
 
+img {margin: 10px;
+    text-align: absolute;
+}
+
 .cf:before,
 .cf:after {
     content: " ";
@@ -46,7 +50,7 @@ h3 {margin: 0px;
   float: left;
 }
 
-  .container.buttons .csmb {
+.container.buttons .csmb {
     margin-right: 8px;
   }
 
@@ -65,32 +69,32 @@ h3 {margin: 0px;
   float: left;
 }
 
-  .types-container.default .type, .types-container.default .buttons {
+.types-container.default .type, .types-container.default .buttons {
     float: right;
   }
 
-  .types-container.default .type {
+.types-container.default .type {
     margin: 0 20px 0 0;
   }
 
-  .types-container.flat .type, .types-container.flat .buttons {
+.types-container.flat .type, .types-container.flat .buttons {
     float: left;
   }
 
-  .types-container.flat .type {
+.types-container.flat .type {
     margin: 0 0 0 20px;
   }
 
-  .types-container .button-container {
+.types-container .button-container {
     overflow: hidden;
     padding: 4px;
   }
 
-  .types-container .type {
+.types-container .type {
     line-height: 36px;
   }
 
-  .types-container .buttons {
+.types-container .buttons {
     width: 36px;
     height: 36px;
   }
@@ -108,20 +112,20 @@ h3 {margin: 0px;
   margin-bottom: 10px;
 }
 
-  .buttons-container .type, .buttons-container .buttons {
+.buttons-container .type, .buttons-container .buttons {
     float: left;
   }
 
-  .buttons-container .type {
+.buttons-container .type {
     line-height: 36px;
     margin: 0 0 0 20px;
   }
 
-  .buttons-container .buttons {
+.buttons-container .buttons {
     height: 36px;
   }
 
-  .buttons-container .buttons-group {
+.buttons-container .buttons-group {
     float: left;
     margin-right: 20px;
   }
