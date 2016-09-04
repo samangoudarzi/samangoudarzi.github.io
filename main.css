@@ -32,7 +32,7 @@ h3 {margin: 0px;
     color: #2B4162;
 }
 
-h4 {position: relative;
+h4 {position: absolute;
 }
 
 .cf:before,
