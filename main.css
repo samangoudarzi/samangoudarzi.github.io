@@ -5,8 +5,9 @@ html {
 
 .overlay {
     margin: auto;
-    margin-left: auto;
-    margin-right: auto;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
     background: #C6C6C6;
     font-family: 'DIN Offc Pro Medium', Arial, Regular;
     overflow: auto;
@@ -22,14 +23,14 @@ html {
 }
 
 h2 {margin: 0px;
-    font-size: 14px;
+    font-size: 18px;
     text-align: left;
     font-family: 'DIN Offc Pro Medium', Arial, Regular;
     color: #ffffff
 }
 h3 {margin: 0px;
-    font-size: 12px;
+    font-size: 13px;
     text-align: left;
     font-family: 'DIN Offc Pro Medium', Arial, Regular;
-    color: #F9F9DD;
+    color: #BED8D4;
 }
