@@ -33,7 +33,7 @@ h3 {margin: 0px;
 }
 
 img {margin: 10px;
-    vertical-align: bottom;
+    vertical-align: baseline;;
 }
 
 .cf:before,
