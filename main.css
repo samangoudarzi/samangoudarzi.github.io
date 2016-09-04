@@ -15,12 +15,12 @@ html {
 #box {
     top: 0;
     height: 135px;
-    margin-top: 200px;
+    margin-top: 240px;
     width: 345px;
 }
 
 h2 {margin: 0px;
-    font-size: 16px;
+    font-size: 15px;
     text-align: left;
     font-family: 'DIN Offc Pro Medium', Arial, Regular;
     color: #ffffff
@@ -29,5 +29,5 @@ h3 {margin: 0px;
     font-size: 15px;
     text-align: left;
     font-family: 'DIN Offc Pro Medium', Arial, Regular;
-    color: #F3D8C7;
+    color: #8DA7BE;
 }
