@@ -1,6 +1,25 @@
 html {
 	margin: 0;
 	background-color: #FEFEFE;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: #C6C6C6;
+    font-family: 'DIN Offc Pro Medium', Arial, Regular;
+    overflow: auto;
+    border-radius: 3px;
+}
+#box {
+    top: 0;
+    height: 135px;
+    margin-top: 22px;
+    width: 345px;
+}
 
 h2 {margin: 0px;
     font-size: 14px;
@@ -13,16 +32,4 @@ h3 {margin: 0px;
     text-align: left;
     font-family: 'DIN Offc Pro Medium', Arial, Regular;
     color: #F9F9DD;
-}
-#box{
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    margin: auto;
-    background: #C6C6C6;
-    font-family: 'DIN Offc Pro Medium', Arial, Regular
-    overflow: auto;
-    border-radius: 3px;
 }
