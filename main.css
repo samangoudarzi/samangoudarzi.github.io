@@ -32,8 +32,8 @@ h3 {margin: 0px;
     color: #2B4162;
 }
 
-img {margin: 10px;
-    vertical-align: baseline;;
+.img {margin: 10px;
+    vertical-align: baseline;
 }
 
 .cf:before,
