@@ -1,11 +1,11 @@
 html {
 	margin: 0;
-	background-color: #FEFEFE;
+	background-color: #E8E6DE;
 }
 
 .overlay {
     margin: auto;
-    background: #F46036;
+    background: #6D6466;
     font-family: 'DIN Offc Pro Medium', Arial, Regular;
     overflow: auto;
     border-radius: 3px;
@@ -14,9 +14,9 @@ html {
 
 #box {
     top: 0;
-    height: 135px;
+    height: 200px;
     margin-top: 240px;
-    width: 345px;
+    width: 500px;
 }
 
 h2 {margin: 0px;
