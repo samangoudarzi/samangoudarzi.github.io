@@ -4,15 +4,12 @@ html {
 }
 
 .overlay {
-    position: auto;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
+    margin: auto;
     background: #C6C6C6;
     font-family: 'DIN Offc Pro Medium', Arial, Regular;
     overflow: auto;
     border-radius: 3px;
+     padding: 10px;
 }
 #box {
     top: 0;
