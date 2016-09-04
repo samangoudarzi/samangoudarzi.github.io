@@ -5,10 +5,9 @@ html {
 
 .overlay {
     margin: auto;
-    background: #828A95;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background: #c1ccd6;
     overflow: auto;
-    border-radius: 5px;
+    border-radius: 20px;
     padding: 10px;
 }
 
