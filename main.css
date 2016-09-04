@@ -14,18 +14,18 @@ html {
 
 #box {
     top: 0;
-    height: 200px;
+    height: 190px;
     margin-top: 240px;
-    width: 500px;
+    width: 430px;
 }
 
-h2 {margin: 0px;
+p1 {margin: 0px;
     font-size: 16px;
     text-align: left;
     font-family: 'DIN Offc Pro Medium', Arial, Regular;
     color: #ffffff
 }
-h3 {margin: 0px;
+p2 {margin: 0px;
     font-size: 15px;
     text-align: left;
     font-family: 'DIN Offc Pro Medium', Arial, Regular;
