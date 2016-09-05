@@ -4,9 +4,9 @@ html {
 }
 
 .overlay {
-    margin: auto;
     background: #c1ccd6;
     border-radius: 4px;
+    overflow: auto;
     padding: 12px;
 }
 
