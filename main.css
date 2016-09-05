@@ -17,12 +17,13 @@ html {
     width: 370px;
 }
 
-p2 {margin: 0px;
+h2 {margin: 0px;
     font-size: 13px;
     line-height:20px;
     text-align: left;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #fff;
+    font-weight: 100;
 }
 p3 {margin: 0px;
     font-size: 13px;
