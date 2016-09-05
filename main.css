@@ -5,16 +5,16 @@ html {
 
 .overlay {
     background: #c1ccd6;
+    margin: auto;
     border-radius: 4px;
-    overflow: auto;
     padding: 12px;
 }
 
 #box {
     top: 0;
     height: 190px;
-    margin-top: 240px;
-    width: 360px;
+    margin-top: 5px;
+    width: 345px;
 }
 
 h2 {margin: 0px;
