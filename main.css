@@ -17,19 +17,19 @@ html {
     width: 370px;
 }
 
-h2 {margin: 0px;
+p2 {margin: 0px;
     font-size: 13.5px;
     line-height:20px;
     text-align: left;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #fff;
 }
-h3 {margin: 0px;
+33 {margin: 0px;
     font-size: 13px;
     line-height:20px;
     text-align: left;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    color: #F4F6F9;
+    color: #ED6A5A;
 }
 
 .cf:before,
