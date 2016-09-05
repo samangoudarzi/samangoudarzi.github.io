@@ -6,10 +6,12 @@ html {
 .overlay {
     background: #000505;
     margin: auto;
+    border-radius: 4px;
+    padding: 12px;
 }
 
 #box {
-    top: 0;
+    top: 200px;
     height: 170px;
     margin-top: 165px;
     width: 370px;
