@@ -2,8 +2,8 @@
   box-sizing:border-box;
   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size:12px;
-  height:39px;
-  width: 24px;
+  height:38px;
+  width: 26px;
   margin-top:13px;
   margin-left:4px;
   padding:0;
@@ -18,7 +18,7 @@
   line-height:13px;
   list-style:none;
   margin:2px;
-  padding:0;
+  padding:2px;
 }
 
 .rrssb-buttons li.rrssb-email a{background-color:#C84630}
